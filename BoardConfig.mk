@@ -43,7 +43,7 @@ BOARD_KERNEL_IMAGE_NAME := zImage-dtb
 BOARD_MKBOOTIMG_ARGS := --ramdisk_offset 0x01000000 --tags_offset 0x00000100
 TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_SOURCE := kernel/yulong/msm8952
-TARGET_KERNEL_CONFIG := cyanogenmod_CP3600I_defconfig
+TARGET_KERNEL_CONFIG := lineage_CP3600I_defconfig
 TARGET_KERNEL_CROSS_COMPILE_PREFIX := arm-eabi-
 KERNEL_TOOLCHAIN := $(ANDROID_BUILD_TOP)/prebuilts/gcc/$(HOST_OS)-x86/arm/arm-eabi-4.8/bin
 
