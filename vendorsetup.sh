@@ -1,0 +1,2 @@
+add_lunch_combo cm_cp3600i-eng
+add_lunch_combo cm_cp3600i-userdebug
