@@ -1,0 +1,20 @@
+Copyright 2016 - The CyanogenMod Project
+
+Coolpad note5 configurations
+============================================================
+Basic   | Spec Sheet
+-------:|:-------------------------
+CPU     | Quad-core 1.5 GHz ARM® Cortex™ A53 and quad-core 1.2 GHz ARM® Cortex™ A53
+CHIPSET | Qualcomm MSM8952 Snapdragon 617
+GPU     | Adreno 405
+Memory  | 4 GB
+Shipped Android Version | 6.0.1
+Storage | 32 GB
+MicroSD | Up to 128 GB
+Battery | 4010 mAh (non-removable)
+Display | 1080 x 1920 pixels, 5.5"
+Rear Camera  | 13.0 MP Dual-Flash
+Front Camera | 13.0 MP
+Release Date | Febrauary 2016
+
+![CP3600I](https://goo.gl/images/SQMpR8 "CP3600I")
