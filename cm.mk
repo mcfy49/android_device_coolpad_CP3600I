@@ -21,7 +21,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Inherit from CP3600i device
-$(call inherit-product, device/yulong/CP3600I/device.mk)
+$(call inherit-product, device/coolpad/CP3600I/device.mk)
 
 # Set those variables here to overwrite the inherited values.
 BOARD_VENDOR := yulong
